@@ -1,0 +1,115 @@
+
+DEEPAK P. TONDLE
+Sr. Front End Developer
+deepak.tondle@gmail.com
++91 9096458345
+
+SUMMARY: 
+
+	Almost 5+ years of IT experience of developing and deploying internet web and client server based applications.
+	
+	Highly skilled in HTML, HTML5, CSS, CSS3, JSON, JavaScript, jQuery, Angular JS Angular 5/6, Jasmine framework and responsive web development with Twitter Bootstrap Framework.
+
+	Strong understanding of REST web services and JSON objects.
+
+	Updated with the latest Front End Development technologies like Angular Js and Angular 6.
+
+	Develop the pixel perfect workable prototypes using selected UI technology as per defined UI guidelines
+
+	Hands on experience on editors / tools such as Microsoft Visual Studio 2013/2015/2017, Visual Studio Code, Dreamweaver, Edit Plus, Notepad++, etc.
+
+	Having experience on handling the cross browser and cross platform UI issues.
+
+	Excellent capability to explore, learn and understand newer business domains and technologies. 
+
+	 Experienced in environments requiring direct Customer interaction during specifications, development and project implementation phases.
+
+	Closely worked with backend developers to integrate the static prototypes with the dynamic content.
+
+	Having a good understanding of Usability and accessibility standards.
+
+	Working experience in different domain such as Retail, Medical, Banking, Finance and Risk Management Solution etc.
+
+	Experience in working with Agile Methodology.
+
+	Follow the W3C standards as well as best practices and validate the developed prototypes on W3C validator.
+
+
+
+
+
+EDUCATION QUALIFICATIONS:
+
+
+Master of Computer Application – KITS Ramtek, Affiliated to Nagpur University
+
+B.Sc. in Computer Science – Institute of Science, Nagpur, Affiliated to Nagpur University
+
+
+
+TECHNOLOGIES:
+
+WEB & CLIENT-SERVER TECHNOLOGIES:	HTML, HTML5, CSS, CSS3, XML, JSON, JavaScript, jQuery, Angular JS, Angular 5/6, Jasmine, Twitter Bootstrap, Material Design with Bootstrap
+TOOLS:	Edit Plus, Adobe Dreamweaver, Notepad ++, Visual Studio, Visual Studio Code
+CONFIGURATION MGMT:	TFS
+
+
+PROFESSIONAL EXPERIENCE:
+
+Fiserv India Pvt Ltd. (From October 19 2016 to Till Date)
+Designation: Senior Software Engineer (Sr. Front End Developer)
+
+IGATE Global Solutions (now a part of Capgemini) (From April 2013 to October 18 2016)
+Designation: Senior Software Engineer (Sr. Front End Developer)
+
+Roles and Responsibilities:
+	Development of functional prototypes based on the provided UI guidelines.
+	Development of pixel perfect workable prototypes using front end technologies/frameworks such as HTML/HTML5, CSS/CSS3, jQuery, Angular Js Angular 5/6, Jasmine etc.
+	Understand the core requirement as per front end development standpoint.
+	Coordinating with team members for project development.
+	Closely work with backend developers to integrate the dynamic data with static prototypes.
+	Hit the web services (JAVA/.NET) and integrate the JSON object with static prototypes.
+	Work with graphic designers to understand the application design patterns and usability concepts.
+	Build a cross browser compatible pages.
+	Handling the UI team from project perspective and drive the project from front end development standpoint.
+	Provide guidance to the team throughout the development of the application/system.
+	Conduct knowledge sharing sessions/presentations for the team.
+	Test the developed UI prototypes across the browsers / Mobile Devices.
+
+
+Major Assignments:
+	Prologue Credit Loss Manager(PCLM 5.1/ 6.0):
+Prologue Credit Loss Manager from Fiserv is a browser-based application that provides tools to estimate potential future credit losses in compliance with the Current Expected Credit Loss (CECL) accounting standards.
+Using Prologue Credit Loss Manager and your organization data you can define and view segmentation pools and set up initial calculation periods and qualitative adjustments. Then you can calculate and view historical loss rates and CECL ALLL losses. You can run and view interactive reports.
+Technologies Used: HTML 5, CSS3, Javascript, Twitter Bootstrap, Angular 6
+
+	aashrayphysiorehab.in
+	Aashray Physio Rehab:
+The main aim of this project is to develop application for managing the patients and their appointments online. The application also consists of online query asking to the doctors and blogs section. 
+Technologies Used: HTML 5, CSS3, Angular js, jQuery, Twitter Bootstrap.
+
+	Siemens Healthcare:
+Siemens Healthcare provides flexible, holistic solutions for healthcare providers that help reduce costs, improve clinical outcomes and enhance patient experience. By combining the technology leadership with profound experience in clinical consulting and workflow optimization they create value beyond their product business for your healthcare institution.
+Technologies Used: HTML 5, CSS3, Javascript, jQuery, Twitter Bootstrap, Material Design with Bootstrap
+
+	MyStore Central Reporting Application:
+MyStore Central Reporting Application is a reporting platform with live reporting allowing users to respond on the fly, achieving maximum productivity with minimum efforts. MyStore Central provides customized integrated reporting framework with common reporting features, administrative controls and authorization services based on McDonald’s operational hierarchy. It provides flexible synchronization solution to fetch live data from restaurants to central database.
+Technologies Used: HTML 5, CSS3, Javascript, jQuery.
+
+
+	APMEA Phoenix reporting application: 
+APMEA Phoenix Reporting application e-Report Development is a step which focuses on designing and developing the next generation centralized reporting solution. The key components of application were synchronization solution using SSIS, Microsoft Synchronization Framework, Reporting Framework and development of initial key set of reports. This Reporting system was bundled with Next Generation APMEA back-office solution (MacromatiX) for operations reporting Needs of McDonalds APMEA region.
+Technologies Used: HTML 5, CSS3, jQuery, Twitter Bootstrap.
+
+	MDS Dashboard: 
+MDS Dashboard is a web based application which is closely linked with MDS system
+The MDS Dashboard provides below:
+	On-site near real-time display of a restaurant’s MDS performance ranking the restaurant’s performance with other restaurants in the market. 
+	Average Store time
+	Number of Orders taken in last 60 minutes
+These details allow crew and managers to use diagnostics and address opportunities, compete with other restaurants and instill a sense of competitive pride amongst their peers. 
+The score board is expected to improve MDS Service Time thus helping to increase MDS Sales
+Technologies Used: HTML 5, CSS3, jQuery, Twitter Bootstrap.
+
+
+
